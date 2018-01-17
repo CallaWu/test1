@@ -1,5 +1,5 @@
 # master
-branch test
+branch master
 123456
 123456
 test
